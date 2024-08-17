@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IT and soft skill**
 
-- 👨‍💻 All of my projects are coming soon at [http://daokiencuong.id.vn](daokiencuong.id.vn)
+- 👨‍💻 All of my projects are coming soon at [daokiencuong.id.vn](https://www.daokiencuong.id.vn/)
 
 - 💬 Ask me about **FE foundation**
 
