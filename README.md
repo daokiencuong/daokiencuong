@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are coming soon at [daokiencuong.id.vn](https://www.daokiencuong.id.vn/)
 
-- 💬 Ask me about **FE foundation**
-
 - 📫 How to reach me **daokiencuong04@gmail.com**
 
-- ⚡ Fun fact **I want to listen to music but it gives me a headache**
+- ⚡ Fun fact: **I want to listen to music but it gives me a headache**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
