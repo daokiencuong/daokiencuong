@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daokiencuong&show_icons=true&locale=en" alt="daokiencuong" /></p>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daokiencuong&theme=dark" alt="daokiencuong" /></p>
+
 
