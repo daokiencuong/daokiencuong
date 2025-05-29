@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cuong</h1>
+<h1 align="center">Xin chào, Tôi là Cường</h1>
 <h3 align="center">A shy student, a bit of a tech geek, loves to tinker with things...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daokiencuong&label=Profile%20views&color=ff0000&style=flat" alt="daokiencuong" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **daokiencuong04@gmail.com**
 
-- ⚡ Fun fact: **I want to listen to music but it gives me a headache**
+- ⚡ Fun fact: **I want to listen to music, but it gives me a headache**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
