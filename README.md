@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, Tôi là Cường</h1>
 <h3 align="center">A shy student, a bit of a tech geek, loves to tinker with things...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daokiencuong&label=Profile%20views&color=ff0000&style=flat" alt="daokiencuong" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daokiencuong&label=Profile%20views&color=ff0000&style=flat" alt="daokiencuong"/> </p>
 
 - 🔭 I’m currently studying at **SoICT, HUST**
 
