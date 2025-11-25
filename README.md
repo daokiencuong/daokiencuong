@@ -19,13 +19,3 @@
 <a href="https://instagram.com/daokiencuongg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daokiencuongg" height="30" width="40" /></a>
 <a href="https://www.daokiencuong.id.vn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.daokiencuong.id.vn/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daokiencuong&show_icons=true&locale=en&layout=compact" alt="daokiencuong" /></p>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daokiencuong&show_icons=true&locale=en" alt="daokiencuong" /></p>
-<br/>
-
-
-
