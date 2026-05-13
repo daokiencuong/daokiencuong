@@ -9,6 +9,6 @@ I like building things and understanding how systems work.
 - 🌱 Currently interested in scalable systems, automation, and product building
 
 - 👨‍💻 Projects & experiments:  
-  daokiencuong.id.vn
+  [daokiencuong.id.vn](https://www.daokiencuong.id.vn)
 
 - 📫 Contact: **daokiencuong04@gmail.com**
